@@ -1,6 +1,6 @@
 # Student_Management_System 
 
-** Table of contents **
+## **Table of contents**
   
   1. [About App](#about-app)
     1.1 [How to install](#how-to-install)
@@ -30,11 +30,11 @@ pip install requirements.txt
 
 ## List
 
-`asgiref==3.6.0` 
-`Django==4.1.5` 
-`Pillow==9.4.0` 
-`sqlparse==0.4.3` 
-`tzdata==2022.7` 
+  `asgiref==3.6.0` 
+  `Django==4.1.5` 
+  `Pillow==9.4.0` 
+  `sqlparse==0.4.3` 
+  `tzdata==2022.7` 
 
 ## Install pillow
 
